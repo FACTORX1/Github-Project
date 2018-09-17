@@ -12,6 +12,5 @@
 6. Open the web browser
 7. Open http://127.0.0.1/api/profile in the url
 8. The Project is ready to go and search the github users which are then stored in the SQL Lite database.
-9. To search about the Users, use this like: http://127.0.0.1:8000/app/filter where you can search the users on the basis of their date    searched and stored in database.
-10. The link to Admin Panel is http://127.0.0.1:8000/admin/
-11. User: TestUser & Password: test12345
+9. The link to Admin Panel is http://127.0.0.1:8000/admin/  User: TestUser & Password: test12345
+10. To filter the Users, use this link: http://127.0.0.1:8000/app/filter where you can search the users on the basis of their date    searched and stored in database.
